@@ -1808,7 +1808,7 @@ hr {
 }
 
 .button-primary.button-pipaluk, .button-primary.button-pipaluk:focus {
-	background: transparent;
+	background: #8e6ecc;
 }
 
 .button-primary.button-pipaluk::before, .button-primary.button-pipaluk:focus::before {
@@ -10293,7 +10293,7 @@ h1 + .tabs-line {
 		border: 1px solid #d7d7d7;
 	}
 	.tabs-horizontal.tabs-line .nav-tabs {
-		justify-content: space-between;
+		justify-content: space-around;
 		border-bottom: 3px solid #f1efeb;
 	}
 	.tabs-horizontal.tabs-line .nav-item {
